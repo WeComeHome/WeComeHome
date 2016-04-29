@@ -18,7 +18,11 @@ qeffqefef
 
 Run migrations:
 
-    python manage.py migrate
+	λ python manage.py migrate
+
+Create superuser : 
+
+	λ python manage.py createsuperuser
 
 Start app:
 	
