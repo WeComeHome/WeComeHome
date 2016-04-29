@@ -13,7 +13,7 @@ comes with virtualenv built-in. So create a virtual env by:
     2. `$ . wecomehome/bin/activate`
 
 Install all dependencies:
-
+qeffqefef
     pip install -r requirements.txt
 
 Run migrations:
