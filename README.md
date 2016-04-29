@@ -20,6 +20,10 @@ Run migrations:
 
     python manage.py migrate
 
+Start app:
+	
+	λ python manage.py runserver
+
 ### Detailed instructions
 
 Take a look at the docs for more information.
